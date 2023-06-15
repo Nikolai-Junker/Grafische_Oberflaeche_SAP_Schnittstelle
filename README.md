@@ -3,7 +3,7 @@ Eine Schnittstelle zu SAP die Abrufe über eine grafische Oberfläche ermöglich
 
 ## Konkretisierung des allgemeinen Programmes
 
-Dieses Java-Programm dient zur Interaktion mit SAP R/3 über das Java Connector (JCo) Framework. Insbesondere ermöglicht es die Nutzung der Business Application Programming Interfaces (BAPIs) `BAPI_IOBC_GETLIST` und `BAPI_IOBC_GETDETAIL`. Das Programm besteht aus den drei Klassen **Daten**, **Methoden** und **MainGUI**.
+Dieses Java-Programm dient zur Interaktion mit SAP R/3 über das Java Connector (JCo) Framework. Insbesondere ermöglicht es die Nutzung der Business Application Programming Interfaces (BAPIs) `BAPI_IOBC_GETLIST` und `BAPI_IOBC_GETDETAIL`. Das Programm besteht aus den drei Klassen: **Daten**, **Methoden** und **MainGUI**.
 
 ### Klasse: Daten
 
